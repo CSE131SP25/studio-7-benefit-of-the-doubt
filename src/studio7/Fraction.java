@@ -30,6 +30,8 @@ public class Fraction {
 		return denominator + "/" + numerator; 
 	}
 	
+	
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Fraction Mia = new Fraction (11, 10); 
